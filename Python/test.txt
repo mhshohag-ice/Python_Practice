@@ -1,0 +1,15 @@
+Cloud computing is not a location, but rather a pool of resources that can be rapidly provisioned in an
+automated, on-demand manner. The U.S. National Institute of Standards and Technology (NIST) defines cloud
+computing in Special Publication (SP) 800-145 as “a model for enabling ubiquitous, convenient, on-demand
+network access to a shared pool of configurable computing resources (such as networks, servers, storage,
+applications, and services) that can be rapidly provisioned and released with minimal management effort or
+service provider interaction.”
+The value of cloud computing is the ability to pool resources together to achieve economies of scale and
+agility. This is true for private or public clouds. Instead of having many independent and often under-used
+servers deployed for your enterprise applications, pools of resources are aggregated, consolidated, and
+designed to be elastic enough to scale with the needs of your organization.
+The move toward cloud computing not only brings cost and operational benefits but also technology benefits.
+Data and applications are easily accessed by users no matter where they reside, projects can scale easily, and
+consumption can be tracked effectively. Virtualization is a critical part of a cloud computing architecture that,
+when combined with software orchestration and management tools, allows you to integrate disparate
+processes so that they can be automated, easily replicated, and offered on an as-needed basis.
